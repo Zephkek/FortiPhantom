@@ -1,6 +1,6 @@
 # FortiPhantom
 
-**FortiPhantom** is a personal project I've been working on to learn more about how network blocks and Deep Packet Inspection (DPI) work, specifically in Fortinet environments. The goal of this tool is to help understand how misconfigurations in network settings can allow someone to bypass restrictions, and how spoofing techniques can affect DPI. Everything here is for **educational purposes only**—I’m using it to grow my own knowledge in network security.
+**FortiPhantom** is a personal project I've been working on to learn more about how network blocks and Deep Packet Inspection (DPI) work, specifically in Fortinet environments. The goal of this tool is to help understand how misconfigurations in network settings can allow someone to bypass restrictions, and how spoofing techniques can affect DPI. Everything here is for **educational purposes only** I’m using it to grow my own knowledge in network security.
 
 ## Disclaimer
 
